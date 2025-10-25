@@ -2,9 +2,5 @@
 3DSCrossPlatofrm.elf
 3DSCrossPlatofrm.3dsx
 3DSCrossPlatofrm.smdh
-build/3DSCrossPlatofrm.lst
-build/3DSCrossPlatofrm.map
-build/crc.d
-build/crc.o
-build/main.d
-build/main.o
+build/*
+3DSCrossPlatofrm.lst
